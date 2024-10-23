@@ -2,3 +2,4 @@ nltk
 transformers
 rouge-score
 googletrans==4.0.0-rc1
+pytorch
